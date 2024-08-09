@@ -36,9 +36,7 @@ const [showMediaIcons , setShowMediaIcons] = useState(false);
           <li>My List</li>
           <li>Browse by Languages</li>
         </ul>
-        <div className="hamburger-menu">
-           <a href="#" onClick="()=> setShowMediaIcons(!showMediaIcons)"> <i class="fa-solid fa-bars"></i></a>
-        </div>
+        
       </div>
 
       <div className="navbar-right">

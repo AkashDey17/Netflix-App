@@ -1,6 +1,6 @@
 {
  
-  "homepage": "https://AkashDey17.github.io/NewRepo",
+  
   "name": "netflix-app",
  
   "private": true,
@@ -10,10 +10,7 @@
   "type": "module",
  
   "scripts": {
- "start": "react-scripts start",
-  "build": "react-scripts build",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+ 
    
   "dev": "vite",
  
